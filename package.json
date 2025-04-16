@@ -1,0 +1,21 @@
+{
+  "name": "calculator-app",
+  "version": "1.0.0",
+  "description": "A simple calculator app built with TypeScript.",
+  "main": "dist/calculator.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "keywords": [
+    "calculator",
+    "typescript",
+    "example"
+  ],
+  "author": "hasanat72",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^5.0.0"
+  }
+}
